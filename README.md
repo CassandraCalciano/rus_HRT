@@ -5,4 +5,4 @@ HRT pipeline:
 - **Handwritten Text Recognition (HTR)**  
 
 
-- **Using French documents and Russian documents
+Using French documents and Russian documents
